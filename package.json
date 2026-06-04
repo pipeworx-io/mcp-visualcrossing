@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-visualcrossing",
+  "version": "0.1.0",
+  "description": "Visual Crossing Weather MCP — wraps the Visual Crossing Weather Timeline API",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "visualcrossing"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-visualcrossing"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
