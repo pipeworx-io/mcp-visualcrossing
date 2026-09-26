@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-visualcrossing",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Visual Crossing Weather MCP — wraps the Visual Crossing Weather Timeline API",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-2ed6817415b1b6eaeb388d3931a7d866506fcc3f583509163749d9bb43881bd0",
-    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
+    "sourceHash": "v1-278bb3a8f5b3586f7e7077db521bb08791a0aacf962d71bde2e5926b03e5d81e",
+    "sourceCommit": "2cb50b368da3267446f2b6f6a3ddbd3d0eed3d73"
   }
 }
